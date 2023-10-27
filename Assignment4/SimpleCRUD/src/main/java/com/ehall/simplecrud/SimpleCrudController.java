@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.ResourceBundle;
 import java.util.Scanner;
 
-public class HelloController implements Initializable {
+public class SimpleCrudController implements Initializable {
 
     @FXML
     private TableView<MusicAlbum> tableView;

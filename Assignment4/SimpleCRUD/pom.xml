@@ -64,7 +64,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.ehall.simplecrud/com.ehall.simplecrud.HelloApplication</mainClass>
+                            <mainClass>com.ehall.simplecrud/com.ehall.simplecrud.SimpleCrudApplication</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>

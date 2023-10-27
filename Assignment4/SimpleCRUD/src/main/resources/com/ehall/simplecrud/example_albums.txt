@@ -1,0 +1,44 @@
+Name: Audio, Video, Disco.
+Artist: Justice
+Release Year: 2011
+
+Name: Homework
+Artist: Daft Punk
+Release Year: 1997
+
+Name: Demon Days
+Artist: Gorillaz
+Release Year: 2005
+
+Name: Rage Against The Machine
+Artist: Rage Against The Machine
+Release Year: 1992
+
+Name: CASIOPEA
+Artist: CASIOPEA
+Release Year: 1972
+
+Name: Mezzanine
+Artist: Massive Attack
+Release Year: 1998
+
+Name: Can't Buy A Thrill
+Artist: Steely Dan
+Release Year: 1972
+
+Name: Astro Lounge
+Artist: Smash Mouth
+Release Year: 1999
+
+Name: Torches
+Artist: Foster The People
+Release Year: 2011
+
+Name: Meddle
+Artist: Pink Floyd
+Release Year: 1971
+
+Name: Hotel California
+Artist: Eagles
+Release Year: 1967
+
